@@ -44,3 +44,5 @@ out/
 ### Gradle temporary files ###
 target/
 
+### local config
+src/main/resources/config/application.properties
